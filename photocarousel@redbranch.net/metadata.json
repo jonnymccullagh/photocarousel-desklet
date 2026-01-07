@@ -1,0 +1,7 @@
+{
+  "uuid": "photocarousel@redbranch.net",
+  "name": "Photo Carousel",
+  "description": "A photo carousel desklet",
+  "icon": "folder-pictures",
+  "prevent-decorations": true
+}
